@@ -1,0 +1,30 @@
+Hi,
+
+I'm interested in the iOS Developer role.
+
+I am an experienced software developer. I’ve worked on enterprise-scale apps as part of one team among many teams, as the sole developer, and everywhere in between.  I've worked in cross-functional and multicultural teams.  I’ve worked on greenfield apps, legacy apps, and those in between.
+
+I've worked on around 30 different apps, almost all in Swift, most of which have been deployed.  I've placed six apps in the App Store as the sole developer.
+
+I've worked with Swift since it was introduced -- downloaded the original language spec and then the first Xcode beta supporting it.  And been using SwiftUI almost exclusively since it was available.
+
+A few years ago I published several SwiftUI open source repositories on GitHub - SwiftUIReference, SwiftUICombined, Classic Life, and GridDragView.  The first two are SwiftUI example applications.  Classic Life is a tribute to John H Conway.  GridDragView is a SwiftUI grid View control.  All this code is now several years old and already horribly out-of-date.
+
+I've worked with the following Frameworks and SDKs:
+• SwiftUI, UIKit, ARKit, AVFoundation, Cocoa Touch, Combine, CoreData, CoreGraphics, CoreLocation, CoreML, GameKit, MessageUI, PDFKit, ResearchKit.
+• Agora, Alamofire, AppAuth, AudioKit, Auth0, AEXML, GraphQL, mbedTLS, RxSwift, SeeScoreLib, SwiftProtoBuf, Swinject.
+• Firebase,AWS SDK, Facebook SDK, Agora, GraphQL, AmazonFreeRTOS.
+Networking has been with JSON from both RESTful and nonRESTful backends.
+
+I'm familiar with all stages of the software development life cycle (SDLC) – from concept to application design and specification to software design and development to maintenance.
+
+I eat learning curves for lunch. (And make order out of chaos.)
+
+My specialties are software development and design. iOS - Swift (and Objective-C), SwiftUI.
+
+Recent projects have been based in Xcode and managed using Agile development methods, generally a mixture of Scrum and Kanban. Tools have included JIRA plus JIRA Agile and Confluence, Git, GitHub, Bitbucket, GitLab, SourceTree, SPM, and CocoaPods/Carthage. Currently working mainly in Swift and SwiftUI with a little UIKit when necessary.
+
+Thanks,
+David
+0417913294
+dreich@alum.mit.edu
